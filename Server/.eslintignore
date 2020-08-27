@@ -1,0 +1,8 @@
+# Scipt files
+bin/
+
+# Dependency directories
+node_modules/
+
+# Public files
+public/
